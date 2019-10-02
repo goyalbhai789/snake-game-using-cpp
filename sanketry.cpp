@@ -8,8 +8,8 @@ int main()
 {	cout<<"enter  \n1 for easy \n 2 for intermediate \n 3 for hard";
 int t;
 cin>>t;
-	cout<<"GAME IS GOING TO START\n";
-    cout<<"USE ARROW KEYS FOR PLAYING";
+	cout<<"GAME IS GOINGkjiiuih TO START\n";
+    cout<<"USE ARROW KEYS FiiyuiyuiOR PLAYING";
     Sleep(5000);
     system("cls");
 
